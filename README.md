@@ -2,7 +2,7 @@
 
 vlmcsd is an Emulated KMS Server
 details can be found here:https://forums.mydigitallife.info/threads/50234-Emulated-KMS-Servers-on-non-Windows-platforms
-
+version of vlmcsd is vlmcsd-1106-2016-12-06-Hotbird64
 ## 如何使用
 - 卸载现有key
 ```
